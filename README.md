@@ -1,10 +1,10 @@
-# HeartSync 
-<img src="assets/ic_launcher.png" width="150" alt="App Logo"/>
+# Minimal Habit Tracker
+<img src="assets/logo.png" width="150" alt="App Logo"/>
 
 [![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-success?style=for-the-badge&logo=android&logoColor=white)](https://github.com/PINAK-WORK/Minimal-Habit-Tracker/releases/latest)
 
 ### ✨ About
-A private app for couples to visualize their emotional bond. Features include real-time pulsing heart interactions and an interactive dashboard with daily, weekly, and monthly charts to track your connection history.
+A minimal habit tracker that helps you stay consistent without distractions and track daily habits, mark progress, and build better routines with clarity and focus. Simple, clean, and designed to keep you moving forward every day.
 
 <br>
 
