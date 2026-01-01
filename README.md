@@ -11,7 +11,7 @@ A minimal habit tracker that helps you stay consistent without distractions and 
 ## 📊 Repository Status
 
 ![Total Views](https://api.visitorbadge.io/api/visitors?path=PINAK-WORK.Minimal-Habit-Tracker&label=Total%20Views&countColor=%2300D9FF&style=for-the-badge)
-![GitHub Downloads](https://img.shields.io/github/downloads/PINAK-WORK/Minimal-Habit-Tracker/total?style=for-the-badge&logo=github&logoColor=white&label=Downloads&color=00D9FF)
+![Downloads](https://img.shields.io/github/downloads/PINAK-WORK/Minimal-Habit-Tracker/total?style=for-the-badge&color=00D9FF)
 ![Platform](https://img.shields.io/badge/Platform-Android-00D9FF?style=for-the-badge&logo=android&logoColor=white)
 
 <br>
